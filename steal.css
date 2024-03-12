@@ -1,0 +1,17 @@
+	img {
+		width: 350px;
+
+	}
+	section {
+		display:flex;
+	}
+
+	body {
+		
+		background-image: url("Lol.png");
+		background-position: center;
+    	background-size:cover;
+    	background-repeat: no-repeat;
+    	background-attachment: fixed;
+		color: white;
+	}
